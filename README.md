@@ -68,11 +68,13 @@ Agradeço a todos os membros da minha equipe que contribuíram para o desenvolvi
 Equipe de Desenvolvimento:
   - Joel França da Cruz (https://github.com/Joel-18-And-Life)
   - Murilo Vieira Santos Maria (https://github.com/MiloVSM)
+  - Allan da Silva Pereira (https://github.com/allan-xln)
 
 Equipe de Documentações:
   - Arthur Ruiz Garcia (https://github.com/ydrozzy0)
   - Jairo Marcos do Nascimento Santos Filho (https://github.com/Jaironascimentof)
   - Ana Carolina Fernandes (https://www.linkedin.com/in/ana-carolina-fernandes-3b37981a9/)
+  - Allan da Silva Pereira (https://github.com/allan-xln)
 
 Também gostaria de agradecer aos professores e orientadores que nos apoiaram ao longo do processo e nos forneceram orientações valiosas:
   - Cassiana Fagundes da Silva (https://www.linkedin.com/in/cassianafagundesdasilva/)
